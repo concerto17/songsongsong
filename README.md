@@ -1,8 +1,8 @@
 # Songsong Hi
 ## favorite
-![Alt text](/imgs/images.jpg "caffe latte")
-![Alt text](/imgs/kitten.jpg "kitten")
-![Alt text](/imgs/kitten2.jpg "kitten2")
+![Alt text](/photo/images.jpg "caffe latte")
+![Alt text](/photo/kitten.jpg "kitten")
+![Alt text](/photo/kitten2.jpg "kitten2")
 ### Hi, I'm a graduate student who likes cats.
 The cat is so cute.
 There are many advantages.
